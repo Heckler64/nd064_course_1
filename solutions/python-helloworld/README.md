@@ -4,3 +4,6 @@
 
 **Zweck (14:43 12.03.2025):
 Dies ist eine Test-Read-Me-Datei.
+
+**Test (15:15 12.03.2025):
+Erste Änderung.
